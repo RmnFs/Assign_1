@@ -289,6 +289,7 @@ body {
     color: #1a1a2e;
     font-weight: 700;
     padding-left: 300px;
+    white-space: nowrap;
 
 }
 
