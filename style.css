@@ -118,3 +118,62 @@ body {
 
 }
 
+/* Productive Users Section */
+
+
+
+.users-section {
+    background-color: #fbfbfb;
+    padding: 80px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container-user {
+    background-color: #ebebff;
+    border-radius: 28px;
+    padding: 60px 150px;
+    text-align: center;
+
+}
+
+.section-heading {
+    font-size: 40px;
+    color: #1a1a2e;
+    margin-bottom: 50px;
+    font-weight: 600;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: space-between; */
+    gap: 200px;
+
+
+}
+
+.stat-item {
+    text-align: center;
+    min-width: 150px;
+}
+
+.stat-number {
+    display: block;
+    font-size: 88px;
+    font-weight: bolder;
+    color: #4a40fd;
+    margin-bottom: 8px;
+
+}
+
+.stat-label {
+    font-size: 25px;
+    color: #6b6b6b;
+    padding-bottom: 50px;
+}
+
+
+
+
+
