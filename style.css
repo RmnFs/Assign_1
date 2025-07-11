@@ -81,3 +81,40 @@ body {
 
 
 
+/* Action Section */
+.action-section {
+    background-color: #fbfbfb;
+    padding: 100px 0;
+
+}
+
+.action-grid {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+
+.action-left h2 {
+    font-size: 52px;
+    color: #1a1a2e;
+    margin-bottom: 20px;
+}
+
+.action-left p {
+    font-size: 28px;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.action-right img {
+    width: 500px;
+    height: 380px;
+
+    border-radius: 35px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+
+}
+
