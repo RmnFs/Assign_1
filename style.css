@@ -278,7 +278,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 60px;
+    /* justify-content: space-between; */
+     gap: 140px; 
 
 
 
@@ -290,7 +291,8 @@ body {
     font-size: 110px;
     color: #1a1a2e;
     font-weight: 700;
-    padding-left: 230px;
+    
+   
 
 
 }
@@ -299,8 +301,9 @@ body {
 
 .contact-right {
  
-    /* padding-left: 150px; */
-    /* padding-right: 230px; */
+   
+     /* padding-left: 100px;
+     padding-right: 100PX; */
 }
 
 .form-group {
@@ -318,9 +321,11 @@ body {
 .form-group input,
 .form-group textarea {
     width: 100%;
+    min-width: 500PX;
+    max-width: 700px;
     padding: 16px;
     padding-left: 20px;
-    padding-right: 230px;
+    /* padding-right: 230px; */
     border: 1px solid #ddd;
     border-radius: 10px;
     font-size: 26px;
