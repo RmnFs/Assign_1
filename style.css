@@ -278,6 +278,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 60px;
 
 
 
@@ -298,8 +299,8 @@ body {
 
 .contact-right {
  
-    padding-left: 150px;
-    padding-right: 230px;
+    /* padding-left: 150px; */
+    /* padding-right: 230px; */
 }
 
 .form-group {
