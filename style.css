@@ -263,3 +263,88 @@ body {
     color: #888;
 }
 
+
+/* NEWS LETTER */
+
+
+.contact-section {
+    background-color: #fbfbfb;
+    min-height: 100vh;
+
+
+}
+
+.contact-grid {
+    display: flex;
+    align-items: center;
+
+
+
+
+
+}
+
+.contact-left h2 {
+    font-size: 110px;
+    color: #1a1a2e;
+    font-weight: 700;
+    padding-left: 300px;
+
+}
+
+
+
+.contact-right {
+    margin-right: 250px;
+    padding-left: 150px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 16px;
+    padding-left: 20px;
+    padding-right: 250px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 26px;
+    background-color: #ffffff;
+
+}
+
+
+
+.btn-full {
+    width: 100%;
+    padding: 19px;
+    background-color: #4E47FF;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+    border: none;
+    border-radius: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
