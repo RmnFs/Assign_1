@@ -348,3 +348,49 @@ body {
 
 
 
+/* Footer Section */
+.site-footer {
+    background-color: #ffffff;
+    /* Dark background from the hero section */
+    color: #888;
+    /* Light grey for text */
+    padding: 80px 0;
+    text-align: center;
+}
+
+.footer-logo {
+    font-size: 100px;
+    font-weight: 800;
+    color: #4E47FF;
+    /* Matching the header logo color */
+    margin-bottom: 25px;
+}
+
+.footer-subtitle {
+    max-width: 600px;
+    margin: 0 auto 30px auto;
+
+    font-size: 19px;
+}
+
+.footer-nav a {
+    color: #888;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.footer-nav a:hover {
+    color: #4E47FF;
+    text-decoration: underline;
+}
+
+
+/*BUTTON ANIMATION*/
+
+
+.btn:hover {
+
+    background-color: #3a3a9e;
+    transform: translateY(-2px);
+}
