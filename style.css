@@ -277,6 +277,7 @@ body {
 .contact-grid {
     display: flex;
     align-items: center;
+    justify-content: center;
 
 
 
@@ -288,16 +289,17 @@ body {
     font-size: 110px;
     color: #1a1a2e;
     font-weight: 700;
-    padding-left: 300px;
-    white-space: nowrap;
+    padding-left: 230px;
+
 
 }
 
 
 
 .contact-right {
-    margin-right: 250px;
+ 
     padding-left: 150px;
+    padding-right: 230px;
 }
 
 .form-group {
@@ -317,7 +319,7 @@ body {
     width: 100%;
     padding: 16px;
     padding-left: 20px;
-    padding-right: 250px;
+    padding-right: 230px;
     border: 1px solid #ddd;
     border-radius: 10px;
     font-size: 26px;
